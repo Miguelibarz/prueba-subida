@@ -1,0 +1,23 @@
+{
+  "ColorDetalle": {
+    "description": "Auto imported from components/ColorDetalle.vue"
+  },
+  "ModeloDetalle": {
+    "description": "Auto imported from components/ModeloDetalle.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "PasosDetalle": {
+    "description": "Auto imported from components/PasosDetalle.vue"
+  },
+  "TarjetaParte": {
+    "description": "Auto imported from components/TarjetaParte.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

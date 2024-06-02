@@ -1,0 +1,100 @@
+[
+  {
+    "name": "colores",
+    "path": "/colores",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\colores.vue",
+    "chunkName": "pages/colores",
+    "_name": "_6c575c39"
+  },
+  {
+    "name": "Modelos",
+    "path": "/Modelos",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\Modelos.vue",
+    "chunkName": "pages/Modelos",
+    "_name": "_79284cd6"
+  },
+  {
+    "name": "paleta",
+    "path": "/paleta",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\paleta.vue",
+    "chunkName": "pages/paleta",
+    "_name": "_53958d42"
+  },
+  {
+    "name": "partes",
+    "path": "/partes",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\partes.vue",
+    "chunkName": "pages/partes",
+    "_name": "_465eb529"
+  },
+  {
+    "name": "Add-modelo",
+    "path": "/Add/modelo",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\Add\\\\modelo.vue",
+    "chunkName": "pages/Add/modelo",
+    "_name": "_a0ed6162"
+  },
+  {
+    "name": "users-[id]",
+    "path": "/users/%5Bid%5D",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\users\\\\[id].vue",
+    "chunkName": "pages/users/[id]",
+    "_name": "_08822dd7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7fa3613a"
+  },
+  {
+    "name": "Add-parte-id",
+    "path": "/Add/parte/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\Add\\\\parte\\\\_id.vue",
+    "chunkName": "pages/Add/parte/_id",
+    "_name": "_066e7211"
+  },
+  {
+    "name": "Add-paso-id",
+    "path": "/Add/paso/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\Add\\\\paso\\\\_id.vue",
+    "chunkName": "pages/Add/paso/_id",
+    "_name": "_0ed97374"
+  },
+  {
+    "name": "modify-modelo-id",
+    "path": "/modify/modelo/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\modify\\\\modelo\\\\_id.vue",
+    "chunkName": "pages/modify/modelo/_id",
+    "_name": "_41c90e02"
+  },
+  {
+    "name": "modify-parte-id",
+    "path": "/modify/parte/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\modify\\\\parte\\\\_id.vue",
+    "chunkName": "pages/modify/parte/_id",
+    "_name": "_461bb0aa"
+  },
+  {
+    "name": "modify-paso-id",
+    "path": "/modify/paso/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\modify\\\\paso\\\\_id.vue",
+    "chunkName": "pages/modify/paso/_id",
+    "_name": "_29ad7dbb"
+  },
+  {
+    "name": "modelos-id",
+    "path": "/modelos/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\modelos\\\\_id.vue",
+    "chunkName": "pages/modelos/_id",
+    "_name": "_88bdb256"
+  },
+  {
+    "name": "Partes-id",
+    "path": "/Partes/:id?",
+    "component": "I:\\\\Proyectos\\\\Pinturas\\\\front\\\\pages\\\\Partes\\\\_id.vue",
+    "chunkName": "pages/Partes/_id",
+    "_name": "_f7b9387e"
+  }
+]
